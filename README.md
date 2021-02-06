@@ -12,6 +12,6 @@ And here is a photo I took:
 
 
 ## Informal responses
-[Challenge 1]()
+[Challenge 1](challenge1.md)
 
 ## Formal responses
