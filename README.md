@@ -9,6 +9,7 @@ Welcome to my DATA 100 Github site. I'm Daniel, and I'm from Connecticut. Here a
 * My favorite season is spring
 
 And here is a photo I took:
+![](342835_0014.jpg)
 
 
 ## Informal responses
