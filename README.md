@@ -14,7 +14,8 @@ And here is a photo I took:
 
 ## Informal responses
 * [Challenge 1](challenge1.md)
-* [Project 1 Initial Plot](project1.md)
+* [Project 1 Initial Plot](project1plot.md)
 * [DS Reflection #1](DS_Reflection_1.md)
 
 ## Formal responses
+* [Project 1](project1.md
