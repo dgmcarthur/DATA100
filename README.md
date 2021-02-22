@@ -5,12 +5,8 @@ Welcome to my DATA 100 Github site. I'm Daniel, and I'm from Connecticut. Here a
 
 * I want to major in LING and CSCI
 * I prefer Android to iOS
-* My record time for solving a Rubik’s cube is 14.98 seconds
+* My record time for solving a Rubik’s cube is ~~14.98~~ 13.75 seconds
 * My favorite season is spring
-
-And here is a photo I took:
-![](342835_0014.jpg)
-
 
 ## Informal responses
 * [Challenge 1](challenge1.md)
@@ -19,3 +15,6 @@ And here is a photo I took:
 
 ## Formal responses
 * [Project 1](project1.md)
+
+## And here is a photo I took:
+![](342835_0014.jpg)
