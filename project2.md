@@ -11,6 +11,7 @@
 
 ## Stretch Goal 3 - Rayshader
 ![](lao_rayshader.mp4)
+![](lao_rayshader.gif)
 
 ## Geometric Bar Plot
 ![](laos_spatial_bar.png)
