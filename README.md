@@ -15,6 +15,7 @@ Welcome to my DATA 100 Github site. I'm Daniel, and I'm from Connecticut. Here a
 
 ## Formal responses
 * [Project 1](project1.md)
+* [Project 2](project2.md)
 
 ## And here is a photo I took:
 ![](342835_0014.jpg)
