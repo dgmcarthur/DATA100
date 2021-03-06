@@ -1,12 +1,12 @@
 # Project 2
-Overall project 2 went smoothely. I had a few minor errors or parts that I was confused on, but I worked through them and am happy with my final results. This one took a bit longer than project 1, mostly because of the number of plots I needed to produce.
+Overall project 2 went smoothly. I had a few minor errors or parts that I was confused on, but I worked through them and am happy with my final results. This one took a bit longer than project 1, mostly because of the number of plots I needed to produce.
 
 ## Laos Population Map - Challenge Question 1
 This first plot shows the population in each of Laos's adm1 subdivisions. The most time-consuming part was just extracting the data from the raster, which took about 15 minutes on my computer. Otherwise creating the plot was not terribly difficult
 ![](lao_pop20.png)
 
 ## Stretch Goal 1 - adm2 Subdivisons
-This plot shows the log of the populations now in Laos's second level subdivisions. Initially I forgot to include the log operator, but I later realized my mistake. Like the previous plot, the only difficult part was waiting for the data to be extracted.
+This plot shows the log of the populations now in Laos's second level subdivisions. Initially I forgot to include the log operator, but I later realized my mistake. Like the previous plot, the only bothersome part was waiting for the data to be extracted.
 ![](lao_pop20_log_adm2.png)
 
 ## Stretch Goal 2 - adm1 and adm2
