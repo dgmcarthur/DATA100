@@ -11,11 +11,14 @@ Welcome to my DATA 100 Github site. I'm Daniel, and I'm from Connecticut. Here a
 ## Informal responses
 * [Challenge 1](challenge1.md)
 * [Project 1 Initial Plot](project1plot.md)
-* [DS Reflection #1](DS_Reflection_1.md)
 
-## Formal responses
+## Projects
 * [Project 1](project1.md)
 * [Project 2](project2.md)
+
+## Data Science Reflections
+* [DS Reflection #1](DS_Reflection_1.md)
+* [DS Reflection #2](DS_Reflection_2.md)
 
 ## And here is a photo I took:
 ![](342835_0014.jpg)
