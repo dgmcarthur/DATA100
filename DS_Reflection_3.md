@@ -29,4 +29,3 @@ Barder explains that attempting to employ engineering as a policy implication go
 Question #8.  What does Barder mean by "resist fatalism"? Who was Norman Borlaug and what is the green revolution?
 
 By warning to “resist fatalism” Barder is saying that we do not need to accept the results of the evolutionary processes of our complex adaptive systems. In fact, we can often shape these processes to produce better results. He uses the story of Norman Borlaug to emphasize this point. Borlaug intervened in the evolutionary processes of wheat in order to produce varieties with higher yield. This, in turn, allowed more wheat to be produced, which had the effect of saving countless lives that would have been lost to starvation. By harnessing and contributing to the co-evolutionary processes of a system, we have the power to shape the outcomes to be better.
-![image](https://user-images.githubusercontent.com/78607023/112650855-3427fc00-8e22-11eb-885b-f268a56f90a2.png)
