@@ -1,8 +1,8 @@
 # Project 4
 ## Investigating Margins of Error
 ### Vientiane:
-* ![](urban_diff2.png)
-* ![](urban_pop2.png)
+![](vientiane_plot2.png)
+![](urban_pop2.png)
 ### Savannakhét:
 * ![](urban2_diff.png)
 * ![](urban2_pop.png)
