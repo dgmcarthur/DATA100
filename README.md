@@ -16,6 +16,7 @@ Welcome to my DATA 100 Github site. I'm Daniel, and I'm from Connecticut. Here a
 * [Project 1](project1.md)
 * [Project 2](project2.md)
 * [Project 3](project3.md)
+* [Project 4](project4.md)
 
 ## Data Science Reflections
 * [DS Reflection #1](DS_Reflection_1.md)
