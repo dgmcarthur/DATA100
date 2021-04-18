@@ -16,7 +16,8 @@ The second part of the project similarly involved generating the predicted value
 ![](p2_diff_sums.png)
 ![](diff)
 ### Response variable is population and the predictors are mean of covariates:
-This model seemed to have the best results, as the differences between the predicted and actual values appears very slight
+This model seemed to have the best results, as the differences between the predicted and actual values appears very slight, and it returned the lowest value when cellStats(abs(diff_means), sum) was called.
+
 ![](p2_pop_means.png)
 ![](p2_diff_means.png)
 ![](diff2)
