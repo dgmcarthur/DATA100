@@ -10,11 +10,11 @@
 ### Response variable is population and the predictors are sum of covariates:
 * ![](p2_pop_sums.png)
 * ![](p2_diff_sums.png)
-* ![](diff]
+* ![](diff)
 ### Response variable is population and the predictors are mean of covariates:
 * ![](p2_pop_means.png)
 * ![](p2_diff_means.png)
-* ![](diff2]
+* ![](diff2)
 ### Reponse variable is log of population and the predictors are mean of covariates:
 * ![](p2_pop_logpop.png)
 * ![](p2_diff_logpop.png)
