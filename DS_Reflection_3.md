@@ -1,3 +1,5 @@
+# Data Science Reflection #3
+
 How does Owen Barder define development? How does he extend Amartya Sen’s definition to include the idea of complexity?
 
 Owen Barder defines development not simply as the combination of overall improvements in people’s lives, but as a product of the social, political, and economic systems of an area. Amartya Sen’s definition of development involves the general enlargement of freedoms and abilities of people in order to live a more decent life, and Barder extends that definition by comparing development to a complex system. There is not one simple, clear-cut path for development; rather, development rests and relies on the entire complex and evolving system that comprises a nation.
