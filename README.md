@@ -22,6 +22,7 @@ Welcome to my DATA 100 Github site. I'm Daniel, and I'm from Connecticut. Here a
 * [DS Reflection #1](DS_Reflection_1.md)
 * [DS Reflection #2](DS_Reflection_2.md)
 * [DS Reflection #3](DS_Reflection_3.md)
+* [DS Reflection #4](DS_Reflection_4.md)
 
 ## And here is a photo I took:
 ![](342835_0014.jpg)
