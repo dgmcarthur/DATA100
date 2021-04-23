@@ -1,4 +1,4 @@
-# DS Reflection 4
+# Data Science Reflection #4
 
 Throughout the reading, Geoff West frequently compares the trends of human development to biological organisms in order to analyze development as an emergent self-organizing phenomenon. West leans heavily on the idea of scale to illustrate how the complex adaptive system of human development are structured and how they function. One major point in his analysis is that human development does not scale up linearly. Rather, development follows trends that are either superlinear or sublinear.
 
