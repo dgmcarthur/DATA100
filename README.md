@@ -3,9 +3,9 @@
 ## About me, Daniel McArthur
 Welcome to my DATA 100 Github site. I'm Daniel, and I'm from Connecticut. Here are some fun facts about me:
 
-* I want to major in LING and CSCI
+* I want to major in Linguistics and Computer Science
 * I prefer Android to iOS
-* My record time for solving a Rubik’s cube is ~~14.98~~ 13.75 seconds
+* My record time for solving a Rubik’s cube is ~~14.98~~ ~~13.75~~ 12.32 seconds
 * My favorite season is spring
 
 ## Informal responses
